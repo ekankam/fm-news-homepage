@@ -11,7 +11,8 @@ module.exports = {
       "dark-space-blue": "hsl(240, 100%, 5%)",
       "silver": "hsl(233, 8%, 79%)",
       "soft-red": "hsl(5, 85%, 63%)",
-      "soft-orange": "hsl(35, 77%, 62%)"
+      "soft-orange": "hsl(35, 77%, 62%)",
+      "overlay": "#00001A94"
     },
     fontSize: {
       "56": "56px"
