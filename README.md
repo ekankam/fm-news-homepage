@@ -27,10 +27,12 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - TailwindCSS
 - Typescript
 
-## App Preview
- - Desktop View
-  ![News Homepage Desktop View](./public/images/screenshot.png)
+
+## Desktop View
+
+![News Homepage Desktop View](./public/images/screenshot.png)
 
 
-- Mobile View
-![News Homepage Mobile View](./public/images/gif.gif)
+## Mobile View
+
+![News Homepage Mobile View](./public/images/mobile-screenhot.png)
